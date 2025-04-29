@@ -2,7 +2,7 @@
 
 Passionate IT enthusiast. Nerd by day and night.
 
-🔭 I’m currently mainly working on [Qubic](https://qubic.org) (not much time left for other things...)
+🔭 I’m mainly working on [Qubic](https://qubic.org) (not much time left for other things...)
 
 Main projects/repos you find me working on:
 - [Qubic](https://github.com/qubic)
